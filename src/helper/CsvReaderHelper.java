@@ -39,8 +39,7 @@ public class CsvReaderHelper {
 	}
 
 	/**
-	 * Determines csv separator value: from annotated bean or default annotation.
-	 * value value.
+	 * Determines csv separator value: from annotated bean or default annotation value.
 	 * 
 	 * @param javaBean
 	 * @return separator
